@@ -1,3 +1,8 @@
+
+//                                       FECHA: 05/03/2023                                      
+
+// CREAR UN PROGRAMA CON UNA FUNCION PARA CALCULAR EL AREA 
+
 #include<iostream>
 
 using namespace std;
