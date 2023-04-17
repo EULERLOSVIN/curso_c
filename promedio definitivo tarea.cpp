@@ -1,3 +1,6 @@
+//                                                      FECHA: 05/03/2023
+
+//HACER UN PROGRAMA PARA CALCULAR EL PROMEDIO DE TRES NOTAS
 #include<iostream>
 
 using namespace std;  //estamos afirmando que usaremos el espacio de nombre cout y cin
