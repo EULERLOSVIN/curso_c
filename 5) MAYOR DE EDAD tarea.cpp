@@ -1,3 +1,7 @@
+
+//                                 FECHA: 05/03/2023
+
+//HACER UN PROGRAMA QUE PIDA EL AÑO DE NACIMIENTO Y CALCULE CUANTOS AÑO TIENE UNA PERSONA 
 #include<iostream>
 
 using namespace std; //estamos diciendo que vamos a usar los espacios de nombre cout y cin.
