@@ -1,3 +1,9 @@
+
+//                                               FECHA: 09/03/2023
+
+//HACER UN PROGRAMA Y DECLARAR UN ARREGO LIBROS  DE CAPACIDAD 5 .EL USUARIO DEBERA INGRESAR LOS VALORES PARA RELLENAR EL ARREGLO LUEGO 
+//SE DEBE IMPRIMIR LA POSICION DEL ARREGLO Y LOS DATOS PERTENECIENTES A CADA POSICION
+
 #include<iostream>
 #include<conio.h>  //librería que me da acceso a usar el getch que sirve para cerrar el programa por teclado.
 
