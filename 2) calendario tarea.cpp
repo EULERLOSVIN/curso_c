@@ -1,3 +1,8 @@
+
+//                                               FECHA: 05/03/2023 
+
+//HACER UN PROGRAMA QUE PIDA AL USUARIO INGRESAR UN NUMERO Y QUE EL PROGRAMA CALCULE EL NOMBRE DEL MES SEGUN EL NUMERO INGRESADO
+
 #include<iostream>
 
 using namespace std;  //estamos diciendo que usaremos los espacios de nombres cout y cin;

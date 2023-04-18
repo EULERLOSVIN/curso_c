@@ -1,4 +1,11 @@
-#include<iostream>
+
+//                                  FECHA:12/03/2023
+
+//HACER UN PROGRAMA CON UN ARRAY DE CAPACIDAD 5  Y ASIGNAR VALORES DE PRODUCTOS .EL PROGRAMA DEBE IMPRIMIR EL PRECIO DE LOS PRODUCTOS 
+//Y LA CAPACIDAD QUE TIENE EL ARREGLO
+
+
+#include<iostream> 
 
 using namespace std;   //Estamos afirmando que utilizaremos el cout y el cin.
 

@@ -1,3 +1,6 @@
+
+//                                           FECHA:19/03/2023
+
 //SE TIENE UN ARREGLO DE CAPACIDAD 5 REALIZAR LO SIGUIENTE:
 
 //El usuario,ingresa los valores numericos por teclado .

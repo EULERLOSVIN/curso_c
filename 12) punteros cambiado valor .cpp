@@ -1,3 +1,10 @@
+
+
+
+//                                                             FECHA:16/04/2023
+
+//EN ESTE CASO ESTAMOS CAMBIANDO VALOR DEUN EJERCICIO ECHO EN CLASES Y LUEGO DEBEMOS IMPRIMIR EL VALOR DEL NUEVO NUMERO ,SU DIRECCION DE MEMORIA Y EL NUMERO ANTIGUO TAMBIEN
+
 #include <iostream>
 using namespace std;
 int main()

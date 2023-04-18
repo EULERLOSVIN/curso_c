@@ -1,3 +1,7 @@
+
+//                                            FECHA : 05/03/2023
+
+//HACER UNA CALCULADORA CON LAS OPERACIONES BASICAS,CON UN MENU DE ELECCION PARA EL USUARIO Y CREAR FUNCIONES PARA CALCULAR CADA UNA DE ELLAS
 #include<iostream>
 
 using namespace std;
