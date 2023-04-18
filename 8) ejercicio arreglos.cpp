@@ -1,3 +1,9 @@
+
+//                                         FECHA:  12/03/2023
+
+//HACER UN PROGRAMA CON UN ARREGLO DE CAPACIDAD 5 Y ASIGNAR VALORES EN CADA POSICION DEL ARREGLO.LUEGO CAMBIAR EL VALOR DEL DATO 3 POR 
+//COMPUTADORA
+
 #include<iostream>
 #include<conio.h>  //para hacer uso del getch que sirve para cerrar el programa por teclado
 
