@@ -1,0 +1,37 @@
+USUARIO:
+
+NOMBRES: Manuel
+APELLIDOS: Melendrez Cruz
+DNI: 76254526
+CORREO: 002012TELEFONO: 978464821DIRECCION: jr.tito jaime
+
+LIBROPRESTADO:
+
+CODIGO DE LIBRO: 004
+TITULO: El Quijote
+CATEGORIA: Novela clásica
+AUTOR: Miguel de Cervantes 
+
+
+LIBROS QUE QUEDAN: 
+
+
+CODIGO DE LIBRO: 001
+TITULO: la odisea
+CATEGORIA: genero literario
+AUTOR: Homero
+
+CODIGO DE LIBRO: 002
+TITULO: la iliada
+CATEGORIA: literario
+AUTOR: Homero
+
+CODIGO DE LIBRO: 003
+TITULO: Cien anios de soledad
+CATEGORIA: Realismo magico
+AUTOR: Gabriel Garcia Marquez
+
+CODIGO DE LIBRO: 005
+TITULO: El pequenio libro de las matematicas
+CATEGORIA:  matematicas aplicadas
+AUTOR:  Lynda Gratton y Marcus du Sautoy
