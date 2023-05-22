@@ -1,0 +1,72 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Symantec Corporation (SYMC)  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+NOMBRE: Rolando
+APELLIDOS: Yaro Balarca
+DNI: 78556738
+PUESTO: Analista de datos
+SUELDO: 6000
+ANTIGUEDAD: 5 años
+
+NOMBRE: Javier Fernando
+APELLIDOS: Espinosa Benites
+DNI: 57635738
+PUESTO: Desarrollador de software
+SUELDO: 6500
+ANTIGUEDAD: 7 años
+
+NOMBRE: Alessandro
+APELLIDOS: Tasayco Rodriguez
+DNI: 76376574
+PUESTO: Diseniador grafico
+SUELDO: 5500
+ANTIGUEDAD: 3 años
+
+NOMBRE: Jorge Luis
+APELLIDOS: Calderon Rojas
+DNI: 65264543
+PUESTO: Gerente de proyectos
+SUELDO: 5700
+ANTIGUEDAD: 4 años
+
+NOMBRE: Julio Cesar
+APELLIDOS: Arevalo Caballero
+DNI: 78475683
+PUESTO: Soporte técnico
+SUELDO: 4500
+ANTIGUEDAD: 2 años
+
+NOMBRE: Jose Humberto
+APELLIDOS: Rodriguez Burga
+DNI: 45376543
+PUESTO: Asistente administrativo
+SUELDO: 3800
+ANTIGUEDAD: 3 años
+
+NOMBRE: Patricia Elizabeth
+APELLIDOS: Bravo Cahua
+DNI: 24636784
+PUESTO: Analista financiero
+SUELDO: 6700
+ANTIGUEDAD: 4 años
+
+NOMBRE: Cristhian Daniel
+APELLIDOS: Hizquierdo Caja
+DNI: 83598593
+PUESTO: Director General
+SUELDO: 9600
+ANTIGUEDAD: 8 años
+
+NOMBRE: David Angelo
+APELLIDOS: Munios Caso
+DNI: 98746974
+PUESTO: Director de Tecnología
+SUELDO: 7000
+ANTIGUEDAD: 5 años
+
+NOMBRE: Viviana Vanessa
+APELLIDOS: Gordella Chavez
+DNI: 78857467
+PUESTO: Director de Operaciones
+SUELDO: 8300
+ANTIGUEDAD: 6 años
+
