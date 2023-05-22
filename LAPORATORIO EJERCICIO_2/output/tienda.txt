@@ -1,0 +1,117 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TIENDA:( Derco)  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+....................................................LISTA DE MOTOS:
+
+
+
+MARCA: Honda
+COLOR: rojo
+CILINDRADA: 60 cc
+NUMERO DE ACIENTOS: 1
+CERTIFICACION: Certificacion Euro NCAP
+
+
+MARCA: Yamaha
+COLOR: blanca
+CILINDRADA: 250 cc
+NUMERO DE ACIENTOS: 1
+CERTIFICACION: Certificacion EPA
+
+
+MARCA: Kawasaki
+COLOR: amarillo
+CILINDRADA: 180 cc
+NUMERO DE ACIENTOS: 1
+CERTIFICACION: Certificacion CARB
+
+
+MARCA: Suzuki
+COLOR: negro
+CILINDRADA: 1000 cc
+NUMERO DE ACIENTOS: 1
+CERTIFICACION: Certificacion JIS
+
+
+MARCA: Honda
+COLOR: Azul
+CILINDRADA: 150 cc
+NUMERO DE ACIENTOS: 1
+CERTIFICACION: Certificacion INMETRO
+
+
+=========================================================================================================================================
+
+
+.........................................................LISTA DE AUTOS: 
+
+MARCA: Toyota
+COLOR: rojo
+CILINDRADA: 1.4 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de emisiones EPA
+
+
+MARCA: Volkswagen
+COLOR: verde
+CILINDRADA: 1.6 Litros
+NUMERO DE ACIENTOS: 6
+CERTIFICACION: Certificacion de seguridad: NHTSA
+
+
+MARCA: Ford
+COLOR: Amarillo
+CILINDRADA: 1.7 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de calidad ISO
+
+
+MARCA: Nissan
+COLOR: blanco
+CILINDRADA: 2.02 Litros
+NUMERO DE ACIENTOS: 8
+CERTIFICACION: Certificacion de eficiencia de combustible EPA
+
+
+MARCA: Honda
+COLOR: Negro
+CILINDRADA: 1.8 Litros
+NUMERO DE ACIENTOS: 6
+CERTIFICACION: Certificacion de fabricante OEM 
+
+
+MARCA: Chevrolet
+COLOR: Blanco
+CILINDRADA: 2 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de inspección técnica ITV
+
+
+MARCA: Mercedes-Benz
+COLOR: Azul
+CILINDRADA: 2.4 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de conformidad CE
+
+
+MARCA: BMW
+COLOR: Verde
+CILINDRADA: 2 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de seguridad eléctrica UL
+
+
+MARCA: Audi
+COLOR: Rojo
+CILINDRADA: 1.8 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de seguridad vial NCAP
+
+
+MARCA: Hyundai
+COLOR: Blanco
+CILINDRADA: 1.4 Litros
+NUMERO DE ACIENTOS: 4
+CERTIFICACION: Certificacion de calidad ambiental LEED
+
