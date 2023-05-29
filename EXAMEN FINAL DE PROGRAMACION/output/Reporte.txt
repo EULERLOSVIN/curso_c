@@ -1,0 +1,17 @@
+Servicios realizados para ROdrigo Cespedez:
+fecha del servicio: 12/03/2023
+Cambio de neumaticos
+Reparación de acelerador
+
+Servicios realizados para Gloria Fernandez:
+fecha del servicio: 11/01/2023
+Mantenimiento de suspensión
+Cambio de batería
+Alineación y balanceo
+
+Servicios realizados para Roiber Vasquez:
+fecha del servicio: 30/04/2023
+Reparación de motor
+Clientes más frecuentes:
+Cliente: Gloria, frecuencia: 2
+Cliente: ROdrigo, frecuencia: 1
